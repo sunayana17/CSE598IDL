@@ -1,5 +1,5 @@
-# CSEIDLProject
-CSEIDLProject
+# Introduction to deep learning project
+Introduction to deep learning project
 
 This project deals with classification of musculoskeletal radiographs into abnormal and normal. In this project we worked on 6 models, namely, VGG16, ResNet50, DenseNet169, NasNetLarge, NasNet trained from scratch and InceptionV3 model. We have compared these models using recall, accuracy and precision and analyzed them so as to which model performed better and why. The complete results and analysis is in the report.
 
